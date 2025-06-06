@@ -1,6 +1,6 @@
 What this extension does is open the video in a popup window using /embed
 
-1. Download repository
+1. Download repository or latest release
 2. Enable Extensions > Developer mode. This should allow you to load your own extensions.
 3. Extensions > Load unpacked the folder.
 4. Restart the browser
